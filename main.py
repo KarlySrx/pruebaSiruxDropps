@@ -68,8 +68,14 @@ class Scraper:
         extra = cc[0:0 + 12]
         crd = f"{cc}|{mes}|{ano}|{cvv}"
         text = f""" 
-
-Card ➣  {cc}|{mes}|{ano}|{cvv}
+>_New Cc Arrived! 🏝
+- - - - - - - - - - - - - - - - - - - -
+Card ➣ {cc}|{mes}|{ano}|{cvv} 
+- - - - - - - - - - - - - - - - - - - -
+Bin Info ➣ {brand} - {types} - {level}
+Bank ➣  {country} - ({flag})  {bank}
+- - - - - - - - - - - - - - - - - - - -
+𝘿𝙧𝙤𝙥𝙥𝙨 𝙎𝙞𝙧𝙪𝙭デ @TeamSirux  [FreeDB] 
 
 """
 
