@@ -95,7 +95,7 @@ Card ➣  {cc}|{mes}|{ano}|{cvv}
 if __name__ == "__main__":
     id = 27681377
     hash = '43f342537ee796353a06c6b7b6931c57'
-    chat = '@dbfreescrappers'
+    chat = '@makeesotilinpizza'
     chats = [
         '@scrapperlala', '@ritagroupOfc', '@OficialScorpionsGrupo','@JohnnySinsChat','@freeusersdev','@alterchkchat','@BINEROS_CCS2'
     ]
